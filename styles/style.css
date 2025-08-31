@@ -6,8 +6,8 @@
     color: green;
  }
 
- #header {
-    background-color: brown;
+ header {
+    background-color: rgb(27,65,28);
     height: 400px;
     margin: auto;
  }
